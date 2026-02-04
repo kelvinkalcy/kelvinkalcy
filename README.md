@@ -1,4 +1,4 @@
-👋 Hi, I’m @kelvinkalcy
+👋 Hi, I’m @kelvin mathu
 👀 I’m passionate about learning new coding skills and expanding my knowledge in software development.
 🌱 Currently, I’m focused on mastering programming languages like [php, python JavaScript, etc.].
 💞️ I’m eager to collaborate on projects involving web development.
